@@ -9,8 +9,7 @@ This code was based in deeplearningAI course in coursera by Andrew Ng.
     -dataset1:
       -trainingset
       -devset
-  
-  -activation function tanh and sigmoid
+    -activation function tanh and sigmoid
   
 v2:
 
