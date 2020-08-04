@@ -7,3 +7,5 @@ Structure:
 
 Order (random)
 
+trainingset = 392
+devset = 98
