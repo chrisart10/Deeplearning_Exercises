@@ -31,7 +31,29 @@ v3:
     -dataset1:
       -trainingset
       -devset
+      
     
+v3: (corrected)
+
+    -BGD
+    -Binary_crossentropy 
+    -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
+    -activation function tanh and sigmoid.
+    -Normalization
+    -L2Regularization
+    -dataset1:
+      -trainingset
+      -devset
+    
+v4:
+
+    -BGD
+    -Binary_crossentropy 
+    -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
+    -activation function tanh and sigmoid.
+    -dataset1:
+      -trainingset
+      -devset    
 keras:
 
     -Stochastic gradient descent
