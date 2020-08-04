@@ -1,6 +1,6 @@
 This code was based in deeplearningAI course in coursera by Andrew Ng.
 
--V1:
+-v1:
 
     -Batch gradient descent (BGD)
     -Binary_crossentropy
