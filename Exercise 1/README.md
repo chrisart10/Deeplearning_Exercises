@@ -2,6 +2,7 @@ This code was based in deeplearningAI course in coursera by Andrew Ng.
       
 v1:
 
+    -He initialization
     -BGD
     -Binary_crossentropy 
     -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
@@ -14,6 +15,7 @@ v1:
     
 v2:
 
+    -He initialization
     -BGD
     -Binary_crossentropy 
     -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
