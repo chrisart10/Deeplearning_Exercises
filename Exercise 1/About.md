@@ -35,7 +35,7 @@ v3:
     
 keras:
 
-    -SGD
+    -Stochastic gradient descent
     -Binary_crossentropy
     -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
     -activation function tanh and sigmoid.
