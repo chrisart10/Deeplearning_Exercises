@@ -1,17 +1,16 @@
 This code was based in deeplearningAI course in coursera by Andrew Ng.
 
--V1:
+-v1:
 
     -Batch gradient descent (BGD)
     -Binary_crossentropy
     -L2 Regularization.
     -Tanh initialization function... np.random.rand(shape) * np.sqrt(1/n[l-1]).
+    -activation function tanh and sigmoid
     -dataset1:
       -trainingset
       -devset
-  
-  -activation function tanh and sigmoid
-  
+      
 v2:
 
     -BGD
