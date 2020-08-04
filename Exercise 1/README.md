@@ -33,7 +33,7 @@ v3:
       -devset
       
     
-v3: (corrected)
+v4: (corrected)
 
     -BGD
     -Binary_crossentropy 
@@ -45,7 +45,7 @@ v3: (corrected)
       -trainingset
       -devset
     
-v4:
+v5:
 
     -BGD
     -Binary_crossentropy 
